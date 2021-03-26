@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">timer_app</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="time">Time</string>
+    <string name="average">Average</string>
+</resources>
